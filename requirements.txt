@@ -1,0 +1,35 @@
+# Core Web Frameworks
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+streamlit==1.40.0
+
+# LangChain Core
+langchain==0.3.7
+langchain-core==0.3.15
+langchain-community==0.3.5
+langchain-text-splitters==0.3.2
+
+# LangChain Integrations
+langchain-groq==0.2.1
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
+
+# Vector Database
+chromadb==0.5.20
+
+# LLM & Embeddings
+groq==0.11.0
+sentence-transformers==3.3.0
+huggingface-hub==0.26.2
+
+# Document Processing
+pypdf==5.1.0
+python-multipart==0.0.12
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Dependencies for sentence-transformers
+torch==2.5.1
+transformers==4.46.3
