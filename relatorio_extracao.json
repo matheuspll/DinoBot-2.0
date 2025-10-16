@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-10-14T23:34:55.037273",
+  "total_pdfs": 3,
+  "sucessos": 3,
+  "falhas": 0,
+  "detalhes": [
+    {
+      "file": "Acórdão-2017-011-BARREIROS E ALMEIDA.pdf",
+      "success": true,
+      "errors": [],
+      "warnings": [],
+      "campos_obrigatorios": 7,
+      "campos_opcionais": 7,
+      "total_campos": 14,
+      "sucesso_obrigatorios_pct": 100.0,
+      "sucesso_opcionais_pct": 100.0
+    },
+    {
+      "file": "Acórdão-2017-028- LIDER AUTO POSTO LTDA.pdf",
+      "success": true,
+      "errors": [],
+      "warnings": [],
+      "campos_obrigatorios": 7,
+      "campos_opcionais": 7,
+      "total_campos": 14,
+      "sucesso_obrigatorios_pct": 100.0,
+      "sucesso_opcionais_pct": 100.0
+    },
+    {
+      "file": "Acórdão-2017-023 EDSON GONZAGA.pdf",
+      "success": true,
+      "errors": [],
+      "warnings": [],
+      "campos_obrigatorios": 7,
+      "campos_opcionais": 6,
+      "total_campos": 14,
+      "sucesso_obrigatorios_pct": 100.0,
+      "sucesso_opcionais_pct": 85.71428571428571
+    }
+  ]
+}
